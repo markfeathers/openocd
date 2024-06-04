@@ -64,6 +64,7 @@ NOR_DRIVERS = \
 	%D%/sh_qspi.c \
 	%D%/sim3x.c \
 	%D%/spi.c \
+	%D%/sst_mf3.c \
 	%D%/stmsmi.c \
 	%D%/stmqspi.c \
 	%D%/stellaris.c \
